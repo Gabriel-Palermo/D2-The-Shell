@@ -1,4 +1,5 @@
 ## D2: The Shell
+- Implementação das rotas principais, Layouts persistentes, Componentização Atômica e Navegação funcional.
 
 ## Nome do Projeto
 - Classic Cars - Anúncios para vendas de Carros Antigos
